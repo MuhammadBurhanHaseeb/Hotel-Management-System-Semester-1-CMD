@@ -1,0 +1,2 @@
+abdullah,123,MANAGER
+haris,122,USER

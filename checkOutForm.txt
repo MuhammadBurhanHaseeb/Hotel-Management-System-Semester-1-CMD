@@ -1,0 +1,2 @@
+1,urhan,185_j,0317..,burhan@,male,3,2,30/01/21,4/02/21,5,14,four,vip,400,vip,four,10,1800
+1,urhan,185_j,0317..,burhan@,male,3,2,30/01/21,4/02/21,5,14,four,vip,400,vip,four,10,1800

@@ -1,0 +1,3 @@
+1,burhan,185_j,0317408,burhan@,male
+1, burhan, 185_j, male, burhan@, 0317408
+2,butt,1765,0987654,burhan@,male
